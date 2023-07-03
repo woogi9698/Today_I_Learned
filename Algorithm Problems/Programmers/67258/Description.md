@@ -53,9 +53,11 @@
         }
         ```
 
+## Someting Missed
+* None
+
 ## Code Visibility Improvement
 * 왼쪽 포인터의 탐색
-
     * Current Code
         ```cpp
         // initial condition : idx_start = 0; -- Wrong
@@ -97,3 +99,6 @@
             end = idx_end;
         }
         ```
+
+## 맺으며
+* Two Pointer의 Pointer를 움직이는 While 문의 사용에 익숙해 질 필요가 있음
